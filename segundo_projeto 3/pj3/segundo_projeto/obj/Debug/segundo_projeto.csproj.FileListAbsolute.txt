@@ -1,0 +1,20 @@
+U:\segundo_projeto\segundo_projeto\bin\Debug\segundo_projeto.exe.config
+U:\segundo_projeto\segundo_projeto\bin\Debug\segundo_projeto.exe
+U:\segundo_projeto\segundo_projeto\bin\Debug\segundo_projeto.pdb
+U:\segundo_projeto\segundo_projeto\obj\Debug\segundo_projeto.csproj.AssemblyReference.cache
+U:\segundo_projeto\segundo_projeto\obj\Debug\segundo_projeto.frmCalculadora.resources
+U:\segundo_projeto\segundo_projeto\obj\Debug\segundo_projeto.Properties.Resources.resources
+U:\segundo_projeto\segundo_projeto\obj\Debug\segundo_projeto.csproj.GenerateResource.cache
+U:\segundo_projeto\segundo_projeto\obj\Debug\segundo_projeto.csproj.CoreCompileInputs.cache
+U:\segundo_projeto\segundo_projeto\obj\Debug\segundo_projeto.exe
+U:\segundo_projeto\segundo_projeto\obj\Debug\segundo_projeto.pdb
+C:\segundo_projeto 3\pj3\segundo_projeto\bin\Debug\segundo_projeto.exe.config
+C:\segundo_projeto 3\pj3\segundo_projeto\bin\Debug\segundo_projeto.exe
+C:\segundo_projeto 3\pj3\segundo_projeto\bin\Debug\segundo_projeto.pdb
+C:\segundo_projeto 3\pj3\segundo_projeto\obj\Debug\segundo_projeto.csproj.AssemblyReference.cache
+C:\segundo_projeto 3\pj3\segundo_projeto\obj\Debug\segundo_projeto.frmCalculadora.resources
+C:\segundo_projeto 3\pj3\segundo_projeto\obj\Debug\segundo_projeto.Properties.Resources.resources
+C:\segundo_projeto 3\pj3\segundo_projeto\obj\Debug\segundo_projeto.csproj.GenerateResource.cache
+C:\segundo_projeto 3\pj3\segundo_projeto\obj\Debug\segundo_projeto.csproj.CoreCompileInputs.cache
+C:\segundo_projeto 3\pj3\segundo_projeto\obj\Debug\segundo_projeto.exe
+C:\segundo_projeto 3\pj3\segundo_projeto\obj\Debug\segundo_projeto.pdb
