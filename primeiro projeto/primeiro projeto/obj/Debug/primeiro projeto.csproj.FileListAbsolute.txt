@@ -1,0 +1,6 @@
+U:\ds 1\primeiro projeto\primeiro projeto\obj\Debug\primeiro projeto.csproj.AssemblyReference.cache
+U:\ds 1\primeiro projeto\primeiro projeto\obj\Debug\primeiro_projeto.Form1.resources
+U:\ds 1\primeiro projeto\primeiro projeto\obj\Debug\primeiro_projeto.Properties.Resources.resources
+U:\ds 1\primeiro projeto\primeiro projeto\obj\Debug\primeiro projeto.csproj.GenerateResource.cache
+U:\ds 1\primeiro projeto\primeiro projeto\obj\Debug\primeiro projeto.csproj.CoreCompileInputs.cache
+U:\ds 1\primeiro projeto\primeiro projeto\obj\Debug\primeiro_projeto.frm1.resources
